@@ -316,34 +316,33 @@ input.large{
 
 
 .boxp3{
-  position:relative;
-  top: 50px;
+  /* position:relative;
+  top: 50px; */
   left: 250px;
-  width: 357px;
-  height: 50px;
+  /* width: 357px;
+  height: 50px; */
 }
   
 .boxp31{
   position: relative;
   top: -500px;
-  left: 486px;
-  width: 357px;
-  height: 50px;
-}
+   left: 490px; 
+  /* width: 357px;
+  /* height: 50px; */
+} 
 
 .taskp3{
-  background-color: #FFFFFF;
-  margin: 30px;
-  margin-left: 170px;
-  position: absolute;
-  top: 100px;
+  /* background-color: #FFFFFF;
+  margin: 30px; */
+  left:173px;
+  /* top: 100px;
   left: 90px;
   width: 300px;
   height: 200px;
   opacity: 1;
   border: 1px solid #EDEDED;
   border-radius: 10px;
-  padding: 2%;
+  padding: 2%; */
 }
 }
 
